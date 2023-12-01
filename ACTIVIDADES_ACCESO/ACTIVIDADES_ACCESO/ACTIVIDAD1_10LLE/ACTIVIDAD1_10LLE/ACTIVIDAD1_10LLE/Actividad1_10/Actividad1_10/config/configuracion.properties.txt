@@ -1,0 +1,13 @@
+# Informacion para acceder al fichero (sustituir el lle por tus iniciales)
+#Poner una sola vez el nombre del fichero: informacion-IES.xml
+ruta.ficheros=/home/dam2aadd/lle/Act1_10.lle
+fichero.xml.lectura=informacion-IES.xml
+
+
+# Ruta  para crear el archivo XML
+ruta.xml.escritura=/home/dam2aadd/lle/Act1_10.lle
+nombre.xml.escritura=informacion-IES_2.xml
+
+#Ruta para crear el archivo informacion_titulaciones.xml:
+ruta.xml.informacion.titulaciones.escritura=/home/dam2aadd/lle/Act1_10.lle
+nombre.xml.informacion.titulaciones.escritura=informacion_titulaciones.xml

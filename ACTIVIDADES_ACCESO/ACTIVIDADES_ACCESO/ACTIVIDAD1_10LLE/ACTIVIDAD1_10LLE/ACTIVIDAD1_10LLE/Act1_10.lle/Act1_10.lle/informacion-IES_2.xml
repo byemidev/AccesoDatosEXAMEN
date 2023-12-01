@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<informacion-modulos>
+    <modulo id="14" ref="0189">
+        <titulo>Programación</titulo>
+        <numerohoras>270</numerohoras>
+    </modulo>
+    <modulo id="24" ref="0290">
+        <titulo>Programación de servicios y procesos</titulo>
+        <numerohoras>80</numerohoras>
+    </modulo>
+    <modulo id="25" ref="0289">
+        <titulo>Programación multimedia y dispositivos móviles</titulo>
+        <numerohoras>80</numerohoras>
+    </modulo>
+</informacion-modulos>

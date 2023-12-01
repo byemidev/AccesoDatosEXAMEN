@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instituto nombre="IES El Cañaveral" tipo="FP">
+	<ciclo titulo="DAM" tipo="C" familia="Informática y Comunicaciones">
+		<curso numero="1">
+			<modulo id="11" ref="0186">
+				<titulo> Bases de datos</titulo>
+				<numerohoras>205</numerohoras>
+			</modulo>
+			<modulo id="12" ref="0188">
+				<numerohoras>90</numerohoras>
+				<titulo>Entornos de desarrollo </titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="13" ref="0194">
+				<numerohoras>90</numerohoras>
+				<titulo>Formación y orientación laboral</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="14" ref="0190">
+				<numerohoras>140</numerohoras>
+				<titulo>Lenguaje de marcas y sistemas de gestión de información</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="14" ref="0189">
+				<numerohoras>270</numerohoras>
+				<titulo>Programación</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="15" ref="0191">
+				<numerohoras>205</numerohoras>
+				<titulo>Sistemas informáticos</titulo>
+				<unidades_trabajo/>
+			</modulo>
+		</curso>
+		<curso numero="2">
+			<modulo id="21" ref="0286">
+				<titulo>Acceso a Datos</titulo>
+				<numerohoras>120</numerohoras>
+				<unidades_trabajo>
+				</unidades_trabajo>
+			</modulo>
+			<modulo id="22" ref="0288">
+				<numerohoras>120</numerohoras>
+				<titulo>Diseño de interfaces</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="23" ref="0294">
+				<numerohoras>65</numerohoras>
+				<titulo>Empresa e iniciativa emprendedora </titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="24" ref="0290">
+				<numerohoras>80</numerohoras>
+				<titulo>Programación de servicios y procesos</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="25" ref="0289">
+				<numerohoras>80</numerohoras>
+				<titulo>Programación multimedia y dispositivos móviles</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="26" ref="0291">
+				<numerohoras>40</numerohoras>
+				<titulo>Inglés técnico para grado superior</titulo>
+				<unidades_trabajo/>
+			</modulo>
+		</curso>
+	</ciclo>
+</instituto>

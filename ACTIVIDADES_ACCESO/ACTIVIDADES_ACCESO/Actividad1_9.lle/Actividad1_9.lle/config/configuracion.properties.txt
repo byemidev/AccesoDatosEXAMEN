@@ -1,0 +1,4 @@
+# Informacion para acceder al fichero (sustituir el lle por tus iniciales)
+#Poner una sola vez el nombre del fichero: informacion-IES.xml
+ruta.ficheros=/home/dam2aadd/lle/Act1_9.lle
+fichero.xml.lectura=informacion-IES.xml
